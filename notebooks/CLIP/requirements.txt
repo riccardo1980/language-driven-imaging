@@ -1,0 +1,6 @@
+ipywidgets==7.6.5
+matplotlib==3.5.1
+matplotlib-inline==0.1.3
+scikit-image==0.19.1
+widgetsnbextension==3.5.2
+git+https://github.com/openai/CLIP.git
